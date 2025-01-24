@@ -6,23 +6,23 @@ ExpenseME is an iOS application built entirely using Swift and UIKit. It is desi
 
 ## Features
 
-### 1. Visualizations Using CoreGraphics
+### 1. 📈Visualizations Using CoreGraphics
 - Provides detailed graphs of daily and monthly expenses.
 - Visualizations are implemented using the CoreGraphics framework, ensuring smooth and customized rendering.
 
-### 2. Ledger Management
+### 2. 🧾Ledger Management
 - Dynamic ledgers allow users to update and delete expenses with intuitive swipe gestures.
 - Offers a seamless way to manage transactions efficiently.
 
-### 3. Category Visualization
+### 3. 📊Category Visualization
 - Granular control over transaction categorization.
 - Users can view expense breakdowns by category, helping them better understand spending habits.
 
-### 4. Data Persistence
+### 4. 💽Data Persistence
 - All data is stored and managed using CoreData.
 - Data retrieval and queries are optimized using CoreData predicates.
 
-### 5. UIKit Exclusivity
+### 5. 📱UIKit Exclusivity
 - The app is implemented entirely with UIKit, ensuring a native and consistent iOS experience.
 - No external libraries are used, focusing entirely on Apple’s native tools and frameworks.
 
